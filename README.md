@@ -1,6 +1,6 @@
 # Сonfig Сhanger
 
-<img src="technology.png" width=200>
+<img src="gears.png" width=200>
 
 ### Описание
 Эта программа взаимодействует с файлом конфигурации.
